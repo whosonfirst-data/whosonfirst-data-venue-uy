@@ -1,0 +1,99 @@
+{
+  "id": 1108702883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-56.1860882,-34.9102355,-56.1860882,-34.9102355",
+    "geom:latitude":-34.910235,
+    "geom:longitude":-56.186088,
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "sg:address":"Durazno 1888",
+    "sg:city":"Montevideo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"11200",
+    "sg:tags":[
+        "graphic-design",
+        "corporate-image",
+        "web-development",
+        "graphic-production",
+        "print-solutions",
+        "web-solutions",
+        "web-design",
+        "visual-communication",
+        "estrategias-de-comunicacin",
+        "imagen-corporativa",
+        "creatividad",
+        "diseo",
+        "produccin-de-piezas-grficas",
+        "packaging",
+        "diseo-y-pro"
+    ],
+    "sg:website":"http://www.cebra.com.uy/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85764901,
+        102191577,
+        85632511,
+        85680339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WpbnYbxhcYwCdevTeaXTF_-34.910235_-56.186088@1308163241"
+    },
+    "wof:country":"UY",
+    "wof:created":1474570889,
+    "wof:geomhash":"ee11d74c4a00c6e172231ceb25c83868",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632511,
+            "locality_id":-1,
+            "neighbourhood_id":85764901,
+            "region_id":85680339,
+            "venue_id":1108702883
+        }
+    ],
+    "wof:id":1108702883,
+    "wof:lastmodified":1474570889,
+    "wof:name":"CEBRA Comunicaci\u00f3n Visual",
+    "wof:parent_id":85764901,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "graphic-design",
+        "corporate-image",
+        "web-development",
+        "graphic-production",
+        "print-solutions",
+        "web-solutions",
+        "web-design",
+        "visual-communication",
+        "estrategias-de-comunicacin",
+        "imagen-corporativa",
+        "creatividad",
+        "diseo",
+        "produccin-de-piezas-grficas",
+        "packaging",
+        "diseo-y-pro"
+    ]
+},
+  "bbox": [
+    -56.1860882,
+    -34.9102355,
+    -56.1860882,
+    -34.9102355
+],
+  "geometry": {"coordinates":[-56.1860882,-34.9102355],"type":"Point"}
+}

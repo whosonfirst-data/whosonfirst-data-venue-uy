@@ -1,0 +1,80 @@
+{
+  "id": 1108702887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-56.151308,-34.917733,-56.151308,-34.917733",
+    "geom:latitude":-34.917733,
+    "geom:longitude":-56.151308,
+    "iso:country":"UY",
+    "mz:hierarchy_label":1,
+    "sg:address":"Roque Graseras 857",
+    "sg:city":"Montevideo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"11300",
+    "sg:tags":[
+        "offshore",
+        "agyle",
+        "cmm",
+        "cmmi",
+        "software-development",
+        "software-factory"
+    ],
+    "sg:website":"http://www.hexacta.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85764943,
+        85632511,
+        85680339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FvomNCPcNgDSpjR2UTmGO_-34.917733_-56.151308@1308163238"
+    },
+    "wof:country":"UY",
+    "wof:created":1474570889,
+    "wof:geomhash":"86d3e2d844ac9ac6cbec33058b7bf3b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632511,
+            "locality_id":-1,
+            "neighbourhood_id":85764943,
+            "region_id":85680339,
+            "venue_id":1108702887
+        }
+    ],
+    "wof:id":1108702887,
+    "wof:lastmodified":1474570889,
+    "wof:name":"Hexacta",
+    "wof:parent_id":85764943,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-uy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "offshore",
+        "agyle",
+        "cmm",
+        "cmmi",
+        "software-development",
+        "software-factory"
+    ]
+},
+  "bbox": [
+    -56.151308,
+    -34.917733,
+    -56.151308,
+    -34.917733
+],
+  "geometry": {"coordinates":[-56.151308,-34.917733],"type":"Point"}
+}
